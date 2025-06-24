@@ -1,1 +1,2 @@
-# Project
+#Mini Project
+RAG BASED CONVERSATIONAL SYSTEM
